@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sqa-associate-2027",
+    "title": "Associate SQA Engineer — Software Testing (QC)",
+    "team": "Quality Assurance",
+    "location": "Visakhapatnam, Andhra Pradesh",
+    "type": "Full-Time · On-Site",
+    "experience": "Freshers",
+    "salary": "₹4.0 – 4.6 LPA",
+    "postedOn": "2027-10-01",
+    "featured": true,
+    "tags": ["Freshers", "Walk-In", "Manual Testing", "SQL", "BFSI"],
+    "banner": {
+      "kicker": "Fresher Recruitment Drive · Walk-In 2027",
+      "line": "Join the Software Quality Assurance team building enterprise lending software."
+    },
+    "overview": "Selected candidates will join the Software Quality Assurance / Quality Control team and work on enterprise software applications in the BFSI and digital-lending domain.",
+    "walkIn": {
+      "date": "30 October 2027",
+      "reporting": "9:00 AM – 11:00 AM",
+      "venue": "Pennant Technologies, IT Park, Madhurawada, Visakhapatnam, Andhra Pradesh",
+      "mode": "Walk-In Interview"
+    },
+    "responsibilities": [
+      "Understand software requirements and business workflows",
+      "Prepare and execute test cases",
+      "Functional and regression testing",
+      "Identify, document and track software defects",
+      "Work with developers to reproduce and resolve issues",
+      "Perform database / SQL validation",
+      "Test business applications in the BFSI / lending domain",
+      "Maintain test documentation and quality standards",
+      "Learn automation testing tools and frameworks as required"
+    ],
+    "eligibility": [
+      "B.Tech / B.E. graduates",
+      "CSE / IT / ECE / EEE and relevant branches",
+      "Freshers with a good academic record",
+      "Basic programming knowledge",
+      "Basic SQL knowledge",
+      "Good analytical and problem-solving skills",
+      "Good communication skills"
+    ],
+    "process": [
+      {
+        "round": "Round 1 — Aptitude Assessment",
+        "detail": "Numerical ability · Logical reasoning · Analytical ability"
+      },
+      {
+        "round": "Round 2 — Technical Assessment",
+        "detail": "Programming · SQL · Testing fundamentals · Computer fundamentals"
+      },
+      {
+        "round": "Round 3 — Technical Interview",
+        "detail": "Testing concepts · Programming · SQL · Projects · Problem solving"
+      },
+      {
+        "round": "Round 4 — HR / Final Discussion",
+        "detail": "Fitment, expectations and offer discussion"
+      },
+      {
+        "round": "Final Selection & Offer",
+        "detail": "Shortlist and selection communication"
+      }
+    ],
+    "prepare": [
+      {
+        "area": "Programming",
+        "items": ["C / Java / Python basics", "OOP concepts", "Arrays & Strings", "Basic problem solving"]
+      },
+      {
+        "area": "SQL",
+        "items": ["SELECT", "WHERE", "GROUP BY", "JOINs", "Subqueries", "Aggregate functions"]
+      },
+      {
+        "area": "Software Testing",
+        "items": ["SDLC & STLC", "Test cases", "Bug life cycle", "Functional testing", "Regression testing", "Smoke & sanity testing", "Defect reporting"]
+      },
+      {
+        "area": "Aptitude",
+        "items": ["Percentages", "Ratios", "Profit & loss", "Time & work", "Logical reasoning", "Number systems"]
+      }
+    ],
+    "documents": [
+      "Updated Resume — 2 copies",
+      "College / University ID",
+      "Government ID proof",
+      "Academic certificates / mark sheets",
+      "Passport-size photographs"
+    ],
+    "schedule": [
+      { "time": "9:00 – 10:00 AM", "stage": "Registration & document verification" },
+      { "time": "10:00 – 11:00 AM", "stage": "Aptitude / online assessment" },
+      { "time": "11:15 AM – 12:30 PM", "stage": "Technical assessment" },
+      { "time": "1:30 – 3:00 PM", "stage": "Technical interviews" },
+      { "time": "3:00 – 4:00 PM", "stage": "HR / managerial discussion" },
+      { "time": "4:00 – 5:00 PM", "stage": "Final shortlist / selection communication" }
+    ],
+    "note": "The final compensation will depend on the candidate's performance during the recruitment process and the company's offer terms."
+  }
+]
